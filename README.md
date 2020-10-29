@@ -7,4 +7,4 @@ Save the file.
 
 Recommendation: Use the TaskScheduler to automatically run the file once a day.
 
-Note: The toast pop-up is designed for Windows 10.
+Note: The toast pop-up is designed for use with Windows 10.  
